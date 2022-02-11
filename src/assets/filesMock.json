@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "label": "STOCK Locations",
+      "key": "",
+      "children": [
+        {
+          "label": "01511 Plumber WSH&ST",
+          "key": "",
+          "children": [
+            {
+              "label": "Plumber",
+              "key": "",
+              "children": [
+                {
+                  "label": "Plumber Rack 06",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 04",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-BBox-BBox-BBox-BBox- BBox-BBox-BBox- BBox-BBox-BBox-B",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 06 / Shelf 04 / Box-B"
+                        },
+                        {
+                          "label": "Box-D",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 06 / Shelf 04 / Box-D"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 05",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 02",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-D",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 05 / Shelf 02 / Box-D"
+                        },
+                        {
+                          "label": "Box-B",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 05 / Shelf 02 / Box-B"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Shelf 01",
+                      "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 05 / Shelf 01"
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 04",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 03",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 04 / Shelf 03 / Box-C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 13",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 03",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 13 / Shelf 03 / Box-C"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 01",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 01",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 01 / Shelf 01 / Box-C"
+                        },
+                        {
+                          "label": "Box-E",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 01 / Shelf 01 / Box-E"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 02",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 01",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-F",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 02 / Shelf 01 / Box-F"
+                        },
+                        {
+                          "label": "Box-A",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 02 / Shelf 01 / Box-A"
+                        },
+                        {
+                          "label": "Box-E",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 02 / Shelf 01 / Box-E"
+                        },
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 02 / Shelf 01 / Box-C"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Shelf 03",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-E",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 02 / Shelf 03 / Box-E"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Plumber Rack 03",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 01",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-A",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 03 / Shelf 01 / Box-A"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Shelf 02",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 03 / Shelf 02 / Box-C"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Shelf 03",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-A",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 03 / Shelf 03 / Box-A"
+                        },
+                        {
+                          "label": "Box-C",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 03 / Shelf 03 / Box-C"
+                        },
+                        {
+                          "label": "Box-D",
+                          "key": "STOCK Locations / 01511 Plumber WSH&ST / Plumber / Plumber Rack 03 / Shelf 03 / Box-D"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "DEFAULT",
+                  "key": "15000000001"
+                }
+              ]
+            },
+            {
+              "label": "Plumber Cabinet 01",
+              "key": "",
+              "children": [
+                {
+                  "label": "Shelf 01",
+                  "key": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Engine Store",
+          "key": "",
+          "children": [
+            {
+              "label": "CABINET 13 -Meters",
+              "key": "STOCK Locations / Engine Store / CABINET 13 -Meters"
+            }
+          ]
+        },
+        {
+          "label": "02553 HVAC Store",
+          "key": "",
+          "children": [
+            {
+              "label": "REF Racks",
+              "key": "",
+              "children": [
+                {
+                  "label": "REF Rack 04",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "Shelf 02",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box E",
+                          "key": "STOCK Locations / 02553 HVAC Store / REF Racks / REF Rack 04 / Shelf 02 / Box E"
+                        }
+                      ]
+                    },
+                    {
+                      "label": "Shelf 01",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "Box-D",
+                          "key": "STOCK Locations / 02553 HVAC Store / REF Racks / REF Rack 04 / Shelf 01 / Box-D"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "DECK C",
+      "key": "",
+      "children": [
+        {
+          "label": "ZN5",
+          "key": "",
+          "children": [
+            {
+              "label": "SB",
+              "key": "",
+              "children": [
+                {
+                  "label": "ENGINE STORE",
+                  "key": "",
+                  "children": [
+                    {
+                      "label": "RACK16 SHELF059",
+                      "key": "",
+                      "children": [
+                        {
+                          "label": "BOX A",
+                          "key": "DECK C / ZN5 / SB / ENGINE STORE / RACK16 SHELF059 / BOX A"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
